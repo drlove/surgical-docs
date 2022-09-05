@@ -4,6 +4,7 @@ An [espanso](https://espanso.org) package to help with surgical documentation
 ## Text-Expander for Surgical Charting
 
 This builds on the excellent work of Dr Bill Ressl (github.com/wressl/medical-docs).
+
 The ability to perform copy-paste is an important function for doctors using electronic medical records.
 
 Unfortunately, copy-paste comes with tremendous risk and privacy concerns when data from one patient is copy-pasted into another.
