@@ -352,17 +352,17 @@ Clinical Notes          | Description
 If you are interested in becoming a contributor
 contact me by [email](mailto:wressl@gmail.com)
 
-## License
+## License (medical-docs)
 medical-docs was created by Bill Ressl
 and is licensed under the [GPL-3.0 license](/LICENSE).
 If you decide to use the contents outside of espanso,
 contact me by [email](mailto:wressl@gmail.com)
 
-## License
+## License (surgical-docs)
 surgical-docs was extended by Alvin Marcelo from medical-docs by Bill Ressl
 and is licensed under the [GPL-3.0 license](/LICENSE).
 If you decide to use the contents outside of espanso,
-for medical-docs contact  [email](mailto:wressl@gmail.com)
+for medical-docs contact  [email] (mailto:wressl@gmail.com) and
 for surgical-docs contact [email] (mailto:admarcelo@up.edu.ph)
 
 ## Disclaimer
