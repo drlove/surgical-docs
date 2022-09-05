@@ -3,25 +3,23 @@ An [espanso](https://espanso.org) package to help with surgical documentation
 
 ## Text-Expander for Surgical Charting
 
-With ever increasing demands on physician time, we need to make use of
-technology to increase efficiency.
-If we can spend less time on typing, we can spend more time listening
-and caring for our patients.
+This builds on the excellent work of Dr Bill Ressl (github.com/wressl/medical-docs).
+The ability to perform copy-paste is an important function for doctors using electronic medical records.
 
-Many electronic medical records (EMRs) provide the ability to create
-templates or stamps.
-Some of these functions actually work pretty well within each system.
-However, they all require considerable investment in time to set up, and
-collaboration on development is limited.
-Templates may be shared within a clinic but seldom more widely.
+Unfortunately, copy-paste comes with tremendous risk and privacy concerns when data from one patient is copy-pasted into another.
 
-Using a tool like espanso allows us to define templates/stamps and
+A viable alternative to copy-paste are template.
+Templates may be shared within a group but seldom more widely.
+
+To some extent, templates contribute to data interoperability.
+
+From Dr Ressl: "Using a tool like espanso allows us to define templates/stamps and
 automatic text expansion independent of any EMR.
 This means you can document in a similar manner across different sites,
 even if they are using different EMRs.  It also means a community of
 interested individuals can collaborate to create a library that is
 likely to be more complete and useful than anything any individual
-can maintain on their own.
+can maintain on their own."
 
 ## Installation
 
