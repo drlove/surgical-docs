@@ -137,6 +137,7 @@ Here is a list of all the current available expansions:
 Simple Abbreviations    | Expansion
 --------------          | ------------------
 A:                      | Assessment:
+aaa                     | abdominal aortic aneurysm
 amit                    | Amitriptyline (Elavil)
 appt                    | appointment
 bcp                     | birth control pill
