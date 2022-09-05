@@ -27,7 +27,7 @@ can maintain on their own.
 
 1. Install [espanso](https://espanso.org)
 
-2. Install medical-docs package
+2. Install surgical-docs package
      `espanso install surgical-docs`
 
 3. Add the following to your default.yml
