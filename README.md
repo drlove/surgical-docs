@@ -1,7 +1,7 @@
-# medical-docs package for espanso
-An [espanso](https://espanso.org) package to help with medical documentation
+# surgical-docs package for espanso from wressl
+An [espanso](https://espanso.org) package to help with surgical documentation
 
-## Text-Expander for Medical Charting
+## Text-Expander for Surgical Charting
 
 With ever increasing demands on physician time, we need to make use of
 technology to increase efficiency.
@@ -28,7 +28,7 @@ can maintain on their own.
 1. Install [espanso](https://espanso.org)
 
 2. Install medical-docs package
-     `espanso install medical-docs`
+     `espanso install surgical-docs`
 
 3. Add the following to your default.yml
    Hint: found in the *Config* directory as listed by `espanso path`
@@ -357,6 +357,13 @@ medical-docs was created by Bill Ressl
 and is licensed under the [GPL-3.0 license](/LICENSE).
 If you decide to use the contents outside of espanso,
 contact me by [email](mailto:wressl@gmail.com)
+
+## License
+surgical-docs was extended by Alvin Marcelo from medical-docs by Bill Ressl
+and is licensed under the [GPL-3.0 license](/LICENSE).
+If you decide to use the contents outside of espanso,
+for medical-docs contact  [email](mailto:wressl@gmail.com)
+for surgical-docs contact [email] (mailto:admarcelo@up.edu.ph)
 
 ## Disclaimer
 The contents of this package is intended only for use by
