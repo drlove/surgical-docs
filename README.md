@@ -1,4 +1,4 @@
-# surgical-docs package for espanso from wressl
+# surgical-docs package for espanso (extended from github.com/wressl/medical-docs)
 An [espanso](https://espanso.org) package to help with surgical documentation
 
 ## Text-Expander for Surgical Charting
